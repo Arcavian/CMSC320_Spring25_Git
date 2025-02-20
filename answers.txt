@@ -1,0 +1,3 @@
+Q1 Why might we consider using Git?
+
+Answer: cuz its good for file management all that
