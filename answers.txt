@@ -1,3 +1,4 @@
-Q2: What field could data science be applied to? Give an Example.
+Q3: What is the difference between Merging and Rebasing?
 
-Answer: medicine, the data collecting could be easily combed through to find trends in order to optimize patient care
+Answer: merging preserves commit history and rebasing rewrites
+i
