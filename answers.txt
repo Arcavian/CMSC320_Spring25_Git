@@ -1,4 +1,3 @@
-Q3: What is the difference between Merging and Rebasing?
+Q4: What are you looking forward to this semester?
 
-Answer: merging preserves commit history and rebasing rewrites
-i
+Answer: it ending
